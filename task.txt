@@ -1,0 +1,17 @@
+Web crawler (allow 30 mins):
+
+For this task we will crawl a gallery's listing of works available for sale.
+
+The listings are on https://www.bearspace.co.uk/purchase
+
+Each listing leads to a detail page. Eg.
+
+Eg. https://www.bearspace.co.uk/product-page/the-pond-by-lucinda-metcalfe
+
+Task Scrape all artworks available for sale
+
+Output Return a dataframe consisting of the following information
+
+url	title	media	height_cm	width_cm	price_gbp
+https://www.bearspace.co.uk/product-page/the-pond-by-lucinda-metcalfe	The pond by Lucinda Metcalfe	Acrylic and oil on canvas	100	150	2400
+Your dataframe will have shape (n,6) where n is the total number of works available to purchase.

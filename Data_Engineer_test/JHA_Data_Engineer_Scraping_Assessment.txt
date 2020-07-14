@@ -1,0 +1,30 @@
+1. Parsing HTML
+
+ANSWER:
+Please look for file "JHA/tasks/christies1.py"
+It has all the code and sample output of the code in the comments also
+
+
+
+2. Regex (allow 12 mins)
+
+ANSWER:
+Please look for file "JHA/tasks/regex2.py"
+It has all the implemented code and 2 regular expressions in the comments
+
+
+
+3. Web crawler (allow 30 mins)
+
+ANSWER:
+I have written the entire spider in scrapy framework here "JHA/spiders/bearspace.py"
+and the output of the crawl is also attached here "bearspace3.csv"
+
+
+4. Data (allow 5 mins)
+
+ANSWER:
+I have written and implemented all the Sql QUERIES here
+Please check these files
+"JHA/tasks/data_task4.txt"
+"JHA/tasks/data_task4.py"
